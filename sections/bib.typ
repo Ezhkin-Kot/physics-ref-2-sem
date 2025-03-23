@@ -1,6 +1,6 @@
 = Список источников
 
-1. Выблый Ю.,Сивцов И. (2018) Космология и астрофизика сегодня: тёмная энергия и тёмная материя.
+1. Выблый Ю., Сивцов И. (2018) Космология и астрофизика сегодня: тёмная энергия и тёмная материя.
 2. Арбей А. (2005). Is it possible to consider Dark Energy and Dark Matter as a same and unique Dark Fluid? arXiv preprint. 
 3. Фарнс Дж. С. (2018). A Unifying Theory of Dark Energy and Dark Matter: Negative Masses and Matter Creation within a Modified ΛCDM Framework. Astronomy & Astrophysics. 
 4. Питьев Н. П., Питьева Е. В. (2013). Ограничения на темную материю в Солнечной системе. 
