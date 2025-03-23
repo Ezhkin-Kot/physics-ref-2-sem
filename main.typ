@@ -54,6 +54,9 @@ inspector: (
 
 #include "sections/section4.typ"
 
+#include "sections/section5.typ"
+
 #include "sections/conclusion.typ"
 
 #include "sections/bib.typ"
+
