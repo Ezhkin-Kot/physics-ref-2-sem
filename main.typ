@@ -58,5 +58,7 @@ inspector: (
 
 #include "sections/conclusion.typ"
 
-#include "sections/bib.typ"
+= Список источников 
+
+#bibliography("sections/bib.bib", style: "gost-7-1-2003.csl", title: none, full: true)
 
